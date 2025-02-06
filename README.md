@@ -40,8 +40,9 @@ This project implements a basic password-based authentication system. The user i
 4. **Access the Application:**
     Open your browser and navigate to http://localhost:3000. Enter the password ILoveProgramming to access the secret page.
 
+---
 
-   ## Testing with Postman
+## Testing with Postman
 
 I used **Postman** to test the application's functionality. Here's how you can test it:
 
