@@ -4,6 +4,14 @@ This project demonstrates a simple authentication mechanism using **Express.js**
 
 ---
 
+
+
+
+
+
+
+
+
 ## Technologies Used
 
 - **Express.js**: A fast, unopinionated, and minimalist web framework for Node.js.
