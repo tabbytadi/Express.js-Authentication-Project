@@ -12,7 +12,6 @@
 
 
 
-
 This project demonstrates a simple authentication mechanism using **Express.js**. It showcases my understanding of backend development, middleware usage, and handling HTTP requests and responses. Below is a detailed overview of the project, the technologies used, and how to run it.
 
 ---
